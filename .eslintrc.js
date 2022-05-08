@@ -24,5 +24,8 @@ module.exports = {
     'import/extensions': [0],
     'import/no-unresolved': [0],
     'react/function-component-definition': [2, { namedComponents: 'arrow-function' }],
+    'no-return-await': 0,
+    'class-methods-use-this': 0,
+    'no-unused-vars': 0,
   },
 };
